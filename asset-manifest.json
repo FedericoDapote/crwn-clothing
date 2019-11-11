@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "link-to-your-repository/static/css/main.0211b73b.chunk.css",
-    "main.js": "link-to-your-repository/static/js/main.3b91c4d2.chunk.js",
-    "main.js.map": "link-to-your-repository/static/js/main.3b91c4d2.chunk.js.map",
-    "runtime-main.js": "link-to-your-repository/static/js/runtime-main.781e1642.js",
-    "runtime-main.js.map": "link-to-your-repository/static/js/runtime-main.781e1642.js.map",
-    "static/js/2.3e71fee9.chunk.js": "link-to-your-repository/static/js/2.3e71fee9.chunk.js",
-    "static/js/2.3e71fee9.chunk.js.map": "link-to-your-repository/static/js/2.3e71fee9.chunk.js.map",
-    "index.html": "link-to-your-repository/index.html",
-    "precache-manifest.a062cd19fb80c5a925839e4e2746cac4.js": "link-to-your-repository/precache-manifest.a062cd19fb80c5a925839e4e2746cac4.js",
-    "service-worker.js": "link-to-your-repository/service-worker.js",
-    "static/css/main.0211b73b.chunk.css.map": "link-to-your-repository/static/css/main.0211b73b.chunk.css.map",
-    "static/media/crown.ed28accb.svg": "link-to-your-repository/static/media/crown.ed28accb.svg",
-    "static/media/shopping-bag.30f07071.svg": "link-to-your-repository/static/media/shopping-bag.30f07071.svg"
+    "main.css": "/FedericoDapote/crwn-clothing.git/static/css/main.0211b73b.chunk.css",
+    "main.js": "/FedericoDapote/crwn-clothing.git/static/js/main.3b91c4d2.chunk.js",
+    "main.js.map": "/FedericoDapote/crwn-clothing.git/static/js/main.3b91c4d2.chunk.js.map",
+    "runtime-main.js": "/FedericoDapote/crwn-clothing.git/static/js/runtime-main.dc338e06.js",
+    "runtime-main.js.map": "/FedericoDapote/crwn-clothing.git/static/js/runtime-main.dc338e06.js.map",
+    "static/js/2.a4fe6e59.chunk.js": "/FedericoDapote/crwn-clothing.git/static/js/2.a4fe6e59.chunk.js",
+    "static/js/2.a4fe6e59.chunk.js.map": "/FedericoDapote/crwn-clothing.git/static/js/2.a4fe6e59.chunk.js.map",
+    "index.html": "/FedericoDapote/crwn-clothing.git/index.html",
+    "precache-manifest.423f47afd15691099babb0a04bcfb199.js": "/FedericoDapote/crwn-clothing.git/precache-manifest.423f47afd15691099babb0a04bcfb199.js",
+    "service-worker.js": "/FedericoDapote/crwn-clothing.git/service-worker.js",
+    "static/css/main.0211b73b.chunk.css.map": "/FedericoDapote/crwn-clothing.git/static/css/main.0211b73b.chunk.css.map",
+    "static/media/crown.ed28accb.svg": "/FedericoDapote/crwn-clothing.git/static/media/crown.ed28accb.svg",
+    "static/media/shopping-bag.30f07071.svg": "/FedericoDapote/crwn-clothing.git/static/media/shopping-bag.30f07071.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.781e1642.js",
-    "static/js/2.3e71fee9.chunk.js",
+    "static/js/runtime-main.dc338e06.js",
+    "static/js/2.a4fe6e59.chunk.js",
     "static/css/main.0211b73b.chunk.css",
     "static/js/main.3b91c4d2.chunk.js"
   ]
