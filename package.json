@@ -1,9 +1,11 @@
 {
   "name": "crwn-clothing",
   "version": "0.1.0",
+  "homepage": "https://federicodapote.github.io/crwn-clothing/",
   "private": true,
   "dependencies": {
     "firebase": "^7.2.3",
+    "gh-pages": "^2.1.1",
     "node-sass": "^4.13.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
@@ -11,11 +13,14 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.2.0",
     "redux": "^4.0.4",
-    "redux-logger": "^3.0.6"
+    "redux-logger": "^3.0.6",
+    "reselect": "^4.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
