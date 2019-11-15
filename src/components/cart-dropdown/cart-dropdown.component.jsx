@@ -13,7 +13,7 @@ import "./cart-dropdown.styles.scss";
 const CartDropDown = ({ cartItems, history, dispatch }) => (
   <div className="cart-dropdown">
     <div className="cart-items">
-      {cartItems.legth ? (
+      {cartItems.length ? (
         cartItems.map(cartItem => (
           <CartItem key={cartItem.id} item={cartItem} />
         ))
