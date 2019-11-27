@@ -24,7 +24,6 @@ export const ContentStyle = styled.div`
 
 export const MenuItemStile = styled.div`
   min-width: 30%;
-  height: 240px;
   flex: 1 1 auto;
   display: flex;
   align-items: center;
@@ -32,6 +31,9 @@ export const MenuItemStile = styled.div`
   border: 1px solid black;
   margin: 0 7.5px 15px;
   overflow: hidden;
+
+  height: ${({ size }) => (size ? "380px" : "240px")};
+
   &:hover ${ContentStyle} {
     cursor: pointer;
     opacity: 0.9;
@@ -42,7 +44,6 @@ export const MenuItemStile = styled.div`
     transition: transform 6s cubic-bezier(0.25, 0.45, 0.45, 0.95);
   }
 
-  height: ${props => (props.height = "large" ? "380px" : "")};
   &:first-child {
     margin-right: 7.5px;
   }
